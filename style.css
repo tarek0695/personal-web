@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+}
+.top-section{
+    background-repeat: no-repeat;
+    background-image: url(images/header-bg.png);
+    background-size: 100%;
+}
+section{
+    height: 650px;
+    padding-bottom: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+
+.peter-img{
+    width: 100%;
+}
+h2{
+    font-size: 45px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(180, 0, 0);
+}
+p{
+    color: rgb(34, 32, 32);
+}
+.hire-me-btn{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,red,rgb(172, 0, 0));
+    color: white;
+    font-weight: 700;
+}
+
+.bio-graphy-section{
+    background-image: url(images/biography-bg.png);
+}
+
+.work-h2{
+    text-align: center;
+}
+.work-section{
+    background-image: url(images/latest-work-bg.png);
+    background-size: 100%;
+    margin-left: 5%;
+    height: 350px;
+}
+
+.latest-work{
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.last-section{
+    background-image: url(images/footer-bg.png);
+    margin-bottom: 80px;
+    background-size: 100%;
+
+}
+.contact{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-top: 100px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,red,rgb(172, 0, 0));
+    color: white;
+    font-weight: 700;
+}
+
+footer p{
+    text-align: center;
+}
